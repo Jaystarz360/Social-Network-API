@@ -8,8 +8,8 @@
     "watch": "nodemon"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Joshua Cherry",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^7.0.2"
