@@ -19,6 +19,10 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Description
 This backend for a social network is built using MongoDB. It allows users to post thoughts and others to respond with reactions. Users can also add friends, and there are options to remove friends, thoughts, and reactions as desired.
 
+## Installation
+Please run npm i in this app's root directory. Once completed the intall run node utils/seed to seed the database.
+Once this had completed run node server.js to start the application. All can be viewed in Insomnia.
+
 ## Tests
 Test case seen in the following walkthrough: <br>
 [Video Walkthrough](https://drive.google.com/file/d/1m5gO7SzzlUgWkJsstsk2NMqQrAyrOWyK/view?usp=sharing)
